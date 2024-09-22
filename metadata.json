@@ -1,0 +1,11 @@
+{
+    "name": "GreenHornet Coin",
+    "symbol": "GHC",
+    "image": "https://raw.githubusercontent.com/trdaniel95/greenhornet/refs/heads/master/logo.jpg",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
